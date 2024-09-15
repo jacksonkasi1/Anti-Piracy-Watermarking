@@ -1,0 +1,151 @@
+# ============================
+# Operating System Files
+# ============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ============================
+# Build Directories
+# ============================
+
+# CMake build directory
+/build/
+
+# Make build files
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.app
+*.dll
+*.dylib
+
+# ============================
+# IDE and Editor Files
+# ============================
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.meta
+*.ipch/
+*.pdb
+*.pgc
+*.pgd
+
+# CLion
+.idea/
+*.iml
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator
+*.pro.user
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+*.atom-workspace
+
+# ============================
+# Temporary and Backup Files
+# ============================
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.old
+
+# ============================
+# Executable and Binary Files
+# ============================
+
+# Binaries
+*.exe
+*.bin
+*.dll
+*.so
+*.dylib
+
+# ============================
+# Log Files
+# ============================
+
+*.log
+
+# ============================
+# Compiled Object Files
+# ============================
+
+*.obj
+*.o
+*.lo
+*.slo
+
+# ============================
+# Archives and Packages
+# ============================
+
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar.bz2
+
+# ============================
+# Miscellaneous
+# ============================
+
+# Ignore watermarked video files
+watermarked_video.avi
+watermarked_video.mp4
+
+# Ignore any other output videos
+*.avi
+*.mp4
+
+# Ignore generated documentation
+/doc/
+
+# Ignore node_modules if using any Node.js tools
+node_modules/
+
+# ============================
+# Custom Exclusions
+# ============================
+
+# Add any additional files or directories you want to exclude below
